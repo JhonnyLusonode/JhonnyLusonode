@@ -23,7 +23,7 @@ related to Cybersecurity or Pentesting.<br><br><br>
 #
 
 
-<br/><a target="_blank"><img align="left" height="400" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/><a target="_blank"><img align="left" height="400" width="380" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 **LANGUAGES, TOOLS AND OS:**  
 
 
