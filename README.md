@@ -85,8 +85,9 @@ related to Cybersecurity or Pentesting.<br><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="Discr0nized@protonmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
-<a href="https://github.com/JhonnyLusonode"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="Discr0nized@protonmail.com"><img img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
+<a href="https://github.com/JhonnyLusonode"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="Jhonny#2507"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 
