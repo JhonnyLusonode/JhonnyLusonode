@@ -83,7 +83,7 @@ related to Cybersecurity or Pentesting.<br><br><br>
 
 #
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Connect with me
+Connect with me
 <p align="center">
 <a href="Discr0nized@protonmail.com"><img img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
 <a href="https://github.com/JhonnyLusonode"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
