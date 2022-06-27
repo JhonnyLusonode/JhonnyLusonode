@@ -91,9 +91,9 @@ related to Cybersecurity or Pentesting.<br><br><br>
 <br/><a target="_blank"></a>
 **🚩STATS:**
 <br/><br/>
-<a href="https://github.com/JhonnyLusonode/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JhonnyLusonode&show_icons=true&count_private=true&theme=highcontrast" alt="JhonnyLusonode's Github Stats"/>
+<a href="https://github.com/JhonnyLusonode/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JhonnyLusonode&show_icons=true&count_private=true&theme=highcontrast" alt="JhonnyLusonode's Github Stats" width="450"/>
 </a>
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnyLusonode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="JhonnyLusonode" /></a>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnyLusonode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="JhonnyLusonode" width="450"/></a>
 <br/>
 
 ## :trophy: Git profile Trophies
