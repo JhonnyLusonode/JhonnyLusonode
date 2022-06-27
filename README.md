@@ -2,14 +2,15 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Pentester+and+CyberSecurity+Analist"></a>
 </p>
-<hr/>
+
 <h4 align="center">I am a junior Pentester, Certified Ethical Hacker and Cybersecurity Analist. Looking to take a part in a challenging project related to Cybersecurity or Pentesting.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JhonnyLusonode&label=Profile%20views&color=F70000&style=iron" alt="JhonnyLusonode" /> </p>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+
+
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/896392052093374514/945366362690322462/output-onlinepngtools_1.png?width=300&height=300"/>
 
 <br><br><br>
 
@@ -20,11 +21,11 @@
 related to Cybersecurity or Pentesting.<br><br><br>
 <br>
 
-#
 
 
-<br/><a target="_blank"><img align="left" height="400" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-**LANGUAGES, TOOLS AND OS:**  
+
+<br/><a target="_blank"></a>
+**⚙LANGUAGES, TOOLS AND OS:**  
 
 
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919852.png"></code>
@@ -40,7 +41,6 @@ related to Cybersecurity or Pentesting.<br><br><br>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732218.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 
-#
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://drasite.com/content/img/icons/visual-studio-code.svg"></code>
@@ -69,7 +69,6 @@ related to Cybersecurity or Pentesting.<br><br><br>
 <code><img height="40" width="40" src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg"></code>
 
 
-#
 <code><img height="40" width="40" src="https://drasite.com/content/blog/posts/media/kali-2020.2/icons/kali-www.svg"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/452/linux--v1.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/452/debian.png"></code>
@@ -79,35 +78,23 @@ related to Cybersecurity or Pentesting.<br><br><br>
 <code><img height="40" width="40" src="https://img.icons8.com/color/344/raspberry-pi.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/344/ubuntu--v1.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/344/windows-10.png"></code>
-<br/>
+<br/><br/>
 
-#
-
-## Connect with me
-<p align="center">
-<a href="Discr0nized@protonmail.com"><img img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
+<br/><a target="_blank"></a>
+**📨 SOCIALS:**
+<br/><br/>
+<a href="Discr0nized@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
 <a href="https://github.com/JhonnyLusonode"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="Jhonny#2507"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
 
 
-## 📊 Github Stats
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-    <br/>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/JhonnyLusonode/github-readme-stats"><img alt="JhonnyLusonode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JhonnyLusonode&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
+<br/><a target="_blank"></a>
+**🚩STATS:**
 <br/><br/>
-  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnyLusonode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="JhonnyLusonode" height="192px"/>
-  <br/>
+<a href="https://github.com/JhonnyLusonode/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JhonnyLusonode&show_icons=true&count_private=true&theme=highcontrast" alt="JhonnyLusonode's Github Stats"/>
+</a>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnyLusonode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="JhonnyLusonode" height="200"/></a>
 <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
 
 ## :trophy: Git profile Trophies
 
@@ -119,8 +106,4 @@ related to Cybersecurity or Pentesting.<br><br><br>
 </p>
 <br>
 
-<!-- https://github.com/Ayan-thecodeking/akshitagupta15june/blob/output/github-contribution-grid-snake.gif?raw=true -->
-<!---
-STAR-DEV95/STAR-DEV95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
