@@ -32,7 +32,6 @@ related to Cybersecurity or Pentesting.<br><br><br>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919856.png"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919841.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097008.png?token=exp=1646689914~hmac=80bdfaf004b520f3a1e40136e15151a4"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
