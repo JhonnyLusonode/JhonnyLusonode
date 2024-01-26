@@ -83,7 +83,6 @@ related to Cybersecurity or Pentesting.<br><br><br>
 <br/><a target="_blank"></a>
 **📨 SOCIALS:**
 <br/><br/>
-<a href="Discr0nized@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
 <a href="https://github.com/JhonnyLusonode"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="Jhonny#2507"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
