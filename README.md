@@ -105,4 +105,5 @@ related to Cybersecurity or Pentesting.<br><br><br>
 </p>
 <br>
 
+<img height="40" width="40" src="https://lusonode.com/images/lusonode.png">
 
