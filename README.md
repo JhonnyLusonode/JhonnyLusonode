@@ -106,4 +106,6 @@ related to Cybersecurity or Pentesting.<br><br><br>
 <br>
 
 <img src="https://lusonode.com/images/lusonode.png">
+<img src="https://lusonode.com/images/favicon.ico">
+
 
